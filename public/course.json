@@ -1,0 +1,75 @@
+[
+    {
+        "id":1,
+      "title": "Database (MySQL)",
+      "description": "MySQL is an open-source relational database management system. It stores structured data, supports SQL queries, and offers reliability, scalability, and ACID compliance for various applications and websites.It stores structured data",
+      "price": 15000,
+      "credit": 1,
+      "image": "../src/assets/Rectangle 2-1.png"
+    },
+    {
+        "id":2,
+      "title": "Introduction to C Programming",
+      "description": "C programming is a foundational, efficient language developed in the 1970s. It's valued for its portability and system-level capabilities, making it crucial for diverse software, including operating systems and embedded systems.",
+      "price": 25000,
+      "credit": 8,
+      "image": "../src/assets/Rectangle 2-2.png"
+    },
+    {
+        "id":3,
+      "title": "Introduction to Algorithms",
+      "description": " Algorithms are step-by-step instructions for solving problems. They play a fundamental role in computer science, guiding processes from data sorting to problem-solving in various applications.They play a fundamental role in computer science",
+      "price": 11499,
+      "credit": 5,
+      "image": "../src/assets/Rectangle 2-3.png"
+    },
+    {
+        "id":4,
+      "title": "Introduction to C++ for DSA",
+      "description": " C++ is a powerful programming language extensively used in DSA. Its versatility and efficiency aid in designing and implementing various data structures and algorithms,Its versatility and efficiency  ",
+      "price": 16729,
+      "credit": 13,
+      "image": "../src/assets/Rectangle 2-4.png"
+    },
+    {
+        "id":5,
+      "title": "Software Engineering",
+      "description": " It's a systematic approach to designing, developing, testing, and maintaining software systems. It employs principles and methods to ensure reliable, efficient, and high-quality software solutions.",
+      "price": 31699,
+      "credit": 7,
+      "image": "../src/assets/Rectangle 2-5.png"
+    },
+    {
+        "id":6,
+      "title": "Problem-Solving Part",
+      "description": " A fundamental cognitive process involving analyzing, devising solutions, and implementing them to overcome challenges or achieve goals, central to various fields, including mathematics, science, and engineering.",
+      "price": 22549,
+      "credit": 14,
+      "image": "../src/assets/Rectangle 2-6.png"
+    },
+    {
+        "id":7,
+      "title": "Introduction to OOP Python",
+      "description": " Object-Oriented Programming (OOP) in Python emphasizes organizing code into reusable objects, enhancing modularity, and promoting concepts like classes, inheritance, and encapsulation",
+      "price": 43998,
+      "credit": 5,
+      "image": "../src/assets/Rectangle 2.png"
+    },
+    {
+        "id":8,
+      "title": "AWS, Cloud Computing",
+      "description": "AWS (Amazon Web Services) is a leading cloud computing platform, offering a range of services such as storage, computing, databases, and more, enabling scalable and flexible cloud solutions.",
+      "price": 29911,
+      "credit": 15,
+      "image": "../src/assets/Rectangle 3-1.png"
+    },
+    {
+        "id":9,
+      "title": "Basic Data Structures",
+      "description": "Fundamental elements like arrays, linked lists, stacks, and queues used in computer science to organize and store data efficiently,essential for algorithm implementation  essential for algorithm implementation and problem-solving.",
+      "price": 16799,
+      "credit": 8,
+      "image": "../src/assets/Rectangle 3.png"
+    }
+  ]
+  
